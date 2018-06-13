@@ -1,2 +1,4 @@
 Today is 6/12, 2018
 I am learning GIT commands.
+
+I make some changes here.
