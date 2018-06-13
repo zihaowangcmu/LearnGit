@@ -2,3 +2,35 @@ Today is 6/12, 2018
 I am learning GIT commands.
 
 I make some changes here.
+
+-------------------------
+git diff
+
+Check the difference: git diff
+-------------------------
+git reset
+
+Go to the last version: git reset --hard head^
+And the one before last: git reset --hard head^^
+And to go to 100 versions ago: git reset --hard~100
+And to go to a specific version by commit id: git reset --hard <Commit Id>
+-------------------------
+git log
+
+Check the commiting log: git log
+Check the commiting log with less info: git log --pretty=oneline
+-------------------------
+git reflog
+
+Check the opration log: git reflog
+-------------------------
+
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
